@@ -5,13 +5,12 @@
 
 -->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Jaya Tech
 - 🌱 I’m currently learning Kotlin and Microservices
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- :soccer: Plays soccer to have fan
+- E.C. Bahia's Social supporter
+- JUG Leader on JavaBahia Community
+- 👯 I’m looking to collaborate on open souce projects
+- 🤔 I’m can help with Java and Web Stacks projects
+
