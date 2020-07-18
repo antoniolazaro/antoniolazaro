@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-![image](img/Antonio.jpg)
+![](img/Antonio.jpg)
 
 - 🔭 I’m currently working on Jaya Tech
 - 🌱 I’m currently learning Kotlin and Microservices
