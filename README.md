@@ -1,9 +1,9 @@
 ### Hi everyone 👋
 
-![](img/Antonio.jpg)
+![profile picture](/img/Antonio.jpg)
 
 - 🔭 I’m currently working on Jaya Tech
-- 🌱 I’m currently learning Kotlin and Microservices
+- 🌱 I’m currently working with Kotlin and Microservices
 - :soccer: Plays soccer to have fan
 - E.C. Bahia's Social supporter
 - JUG Leader on JavaBahia Community
