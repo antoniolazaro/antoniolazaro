@@ -11,7 +11,7 @@
 My written thoughts are on:
 - Twitter: twitter.com/antonio_lazaro
 - Linkedin: https://www.linkedin.com/in/antonio-lazaro-carvalho/
-- My personal web site: antoniolazaro.dev/
+- My personal web site: https://antoniolazaro.dev/
 - Dev.to: https://dev.to/antonio_lazaro/
 - Java Bahia Blogs: https://javabahia.github.io/
-- Github Java Bahia: github.com/javabahia
+- Github Java Bahia: https://github.com/javabahia
