@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<!--
-**antoniolazaro/antoniolazaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
-
-
 - 🔭 I’m currently working on Jaya Tech
 - 🌱 I’m currently learning Kotlin and Microservices
 - :soccer: Plays soccer to have fan
