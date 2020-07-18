@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-![profile picture](/img/Antonio.jpg)
+![profile picture](Antonio.jpg)
 
 - 🔭 I’m currently working on Jaya Tech
 - 🌱 I’m currently working with Kotlin and Microservices
