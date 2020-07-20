@@ -8,7 +8,7 @@
 - 🌱 I’m currently working with Kotlin and Microservices
 - :soccer: Plays soccer to have fan
 - :soccer: E.C. Bahia's Social supporter
-- JUG Leader on JavaBahia Community
+- JUG Leader on JavaBahia Community (https://github.com/javabahia)
 - 👯 I’m looking to collaborate on open souce projects
 - 🤔 I can help with Java and Web Stacks projects
 
@@ -17,10 +17,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-lazaro-carvalho/)](https://www.linkedin.com/in/antonio-lazaro-carvalho/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonio.lazaro@gmail.com)](mailto:antonio.lazaro@gmail.com)
 ![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/antonio_lazaro)](https://twitter.com/antonio_lazaro)
+![Skype Badge](https://img.shields.io/badge/-Skype-blue?style=flat-square&logo=Skype&logoColor=white&link=@alazaro.carvalho)](@alazaro.carvalho)
 
-- Twitter: https://twitter.com/antonio_lazaro
-- Linkedin: https://www.linkedin.com/in/antonio-lazaro-carvalho/
+
+I'be writing on :keyboard::
 - My personal web site: https://antoniolazaro.dev/
 - Dev.to: https://dev.to/antonio_lazaro/
 - Java Bahia Blogs: https://javabahia.github.io/
-- Github Java Bahia: https://github.com/javabahia
