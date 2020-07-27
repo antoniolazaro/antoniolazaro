@@ -6,10 +6,10 @@
 
 - 🔭 I’m currently working on Jaya Tech
 - 🌱 I’m currently working with Kotlin and Microservices
-- :soccer: Plays soccer to have fan
+- :soccer: Plays soccer to have fun
 - :soccer: E.C. Bahia's Social supporter
-- JUG Leader on JavaBahia Community (https://github.com/javabahia)
-- 👯 I’m looking to collaborate on open souce projects
+- JUG Leader at JavaBahia Community (https://github.com/javabahia)
+- 👯 I’m looking to collaborate to open souce projects
 - 🤔 I can help with Java and Web Stacks projects
 
 Write texts on :keyboard::
