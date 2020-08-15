@@ -23,4 +23,11 @@ Professional Social Medias to have contacts :computer::
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/antonio_lazaro)](https://twitter.com/antonio_lazaro)
 [![Skype Badge](https://img.shields.io/badge/-Skype-blue?style=flat-square&logo=Skype&logoColor=white&link=@alazaro.carvalho)](@alazaro.carvalho)
 
+<table>
+  <tr>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=antoniolazaro&count_private=true&show_icons=true" /></td>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniolazaro&layout=compact" /></td>
+  </tr>
+</table>
+
 
