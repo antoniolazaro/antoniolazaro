@@ -10,6 +10,9 @@
 - 👯 I’m looking to collaborate on open souce projects
 - 🤔 I’m can help with Java and Web Stacks projects
 
+[cv PT-BR](cv/pt-br.md)
+[cv EN](cv/en.md)
+
 My written thoughts are on:
 - Twitter: https://twitter.com/antonio_lazaro
 - Linkedin: https://www.linkedin.com/in/antonio-lazaro-carvalho/
