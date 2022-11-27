@@ -30,5 +30,5 @@ Professional Social Medias to have contacts :computer::
   </tr>
 </table>
 
-[cv PT-BR](cv/pt-br.md)
-[cv EN](cv/en.md)
+[cv PT-BR](cv/en/index.md)
+[cv EN](cv/en/index.md)
