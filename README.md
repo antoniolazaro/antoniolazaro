@@ -30,5 +30,5 @@ Professional Social Medias to have contacts :computer::
   </tr>
 </table>
 
-[cv PT-BR](cv/en/index.md)
-[cv EN](cv/en/index.md)
+[cv PT-BR](https://antoniolazaro.dev/markdown-cv/)
+[cv EN](https://antoniolazaro.dev/markdown-cv/)
